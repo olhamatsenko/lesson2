@@ -1,0 +1,30 @@
+.target01{
+    background: brown;
+    text-align: center;
+    margin-bottom: 20px;
+    height: 30px;
+    padding-bottom: 10px;
+    padding-top: 5px;
+    color: white;
+    font-family: "Javanese Text";
+}
+.target02{
+    background: silver;
+    padding: 15px;
+}
+.target03{
+    background: cornflowerblue;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+.target04{
+    background: lightgreen;
+    height: 200px;
+    width: 200px;
+}
+.target05{
+    background: blueviolet;
+    height: 200px;
+    width: 200px;
+    border-radius: 8%;
+}
