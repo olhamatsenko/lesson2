@@ -1,0 +1,56 @@
+.target01{
+    background: darkorange;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    padding: 5%;
+    box-shadow: black 10px 10px 1px 4px;
+    margin-bottom: 50px;
+}
+.target02{
+    background: darkorange;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    padding: 5%;
+    box-shadow: black 10px 10px 5px 4px;
+    margin-bottom: 50px;
+}
+.target03{
+    background: darkorange;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    padding: 5%;
+    box-shadow: black 17px 17px 5px 5px;
+    margin-bottom: 50px;
+}
+.target04{
+    background: darkorange;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    padding: 5%;
+    box-shadow: gray 17px 17px 5px 5px;
+    margin-bottom: 50px;
+}
+.target05{
+    background: darkorange;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    padding: 5%;
+    box-shadow: black 15px 15px 5px 5px;
+    margin-bottom: 50px;
+    border-radius: 5%;
+}
+.target06{
+    background: darkorange;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    padding: 5%;
+    box-shadow: gray 15px 15px 5px 5px;
+    margin-bottom: 50px;
+    border-radius: 5%;
+}
