@@ -1,0 +1,127 @@
+.box{
+    height: 600px;
+    width: 357px;
+    background: cornflowerblue;
+    margin-top: 10px;
+    margin-left: 10px;
+
+}
+.fg{
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.boxa2{
+    display: flex;
+}
+.boxa3{
+    display: flex;
+}
+.a1{
+    height: 55px;
+    width: 355px;
+    border: 1px solid black;
+}
+.a2{
+    height: 541px;
+    width: 55px;
+    border: 1px solid black;
+}
+.a3{
+    height: 120px;
+    width: 298px;
+    border: 1px solid black;
+}
+.a4{
+    height: 70px;
+    width: 298px;
+    border: 1px solid black;
+    margin-left: 57px;
+    margin-top: -421px;
+}
+.a5{
+    height: 250px;
+    width: 220px;
+    border: 1px solid black;
+    margin-left: 56px;
+}
+.a6{
+    height: 250px;
+    width: 77px;
+    border: 1px solid black;
+    margin-top: -252px;
+    margin-left: 278px;
+}
+.a7{
+  height: 95px;
+    width: 298px;
+    border: 1px solid black;
+    margin-left: 67px;
+    margin-top: -97px;
+}
+@media screen and (min-width: 0) and (max-width: 400px) {
+
+    .box {
+        width: 202px;
+        height: 605px;
+        background: slateblue;
+    }
+
+    .a1 {
+        height: 35px;
+        width: 199px;
+        color: white;
+        text-align: center;
+    }
+
+    .a2 {
+        display: none;
+    }
+
+    .a3 {
+        height: 90px;
+        width: 199px;
+        border: 1px solid black;
+        color: white;
+        text-align: center;
+    }
+
+    .a4 {
+        height: 120px;
+        width: 198px;
+        border: 1px solid black;
+        margin-top: -1px;
+        margin-left: 1px;
+        color: white;
+        text-align: center;
+    }
+
+    .a5 {
+        height: 150px;
+        width: 198px;
+        border: 1px solid black;
+        margin-left: 1px;
+        color: white;
+        text-align: center;
+    }
+
+    .a6 {
+        height: 130px;
+        width: 198px;
+        border: 1px solid black;
+        margin-top: -73px;
+        margin-left: 11px;
+        color: white;
+        text-align: center;
+    }
+
+    .a7 {
+        height: 70px;
+        width: 198px;
+        border: 1px solid black;
+        margin-top: -73px;
+        margin-left: 11px;
+        color: white;
+        text-align: center;
+    }
+}
