@@ -1,7 +1,7 @@
 .box{
     height: 600px;
     width: 357px;
-    background: cornflowerblue;
+    background: #d464ed;
     margin-top: 10px;
     margin-left: 10px;
 
@@ -11,10 +11,10 @@
     justify-content: flex-end;
 }
 
-.boxa2{
+.box-a2{
     display: flex;
 }
-.boxa3{
+.box-a3{
     display: flex;
 }
 .a1{
@@ -64,7 +64,7 @@
     .box {
         width: 202px;
         height: 605px;
-        background: slateblue;
+        background: #514f5b;
     }
 
     .a1 {
@@ -109,8 +109,8 @@
         height: 130px;
         width: 198px;
         border: 1px solid black;
-        margin-top: -73px;
-        margin-left: 11px;
+        margin-top: -1px;
+        margin-left: 1px;
         color: white;
         text-align: center;
     }
