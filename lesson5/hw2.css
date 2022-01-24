@@ -1,0 +1,96 @@
+.wrap {
+    border: 4px solid gray;
+    border-radius: 15px;
+    flex-wrap: wrap;
+    padding: 10px;
+    height: 410px;
+    width: 500px;
+}
+.pap{
+    height: 400px;
+    width: 500px;
+    margin-top: 10px;
+}
+.pop{
+    height: 400px;
+    width: 500px;
+    display: flex;
+
+}
+
+.block-A {
+    background: silver;
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    border: 3px;
+    display: flex;
+}
+
+.block-B {
+    background-color: silver;
+    height: 300px;
+    width: 69%;
+    text-align: center;
+    border-radius: 10px;
+    border: 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.block-C {
+    background-color: silver;
+    height: 300px;
+    width: 30%;
+    text-align: center;
+    border-radius: 10px;
+    border: 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 350px;
+    margin-top: -300px;
+
+}
+@media screen and (min-width: 0px) and (max-width: 520px) {
+    .wrap {
+        border: 3px solid red;
+        width: 300px;
+        height: 330px;
+        flex-direction: column;
+    }
+
+
+    .block-A {
+        background: red;
+        height: 70px;
+        width: 300px;
+        flex-direction: column;
+        border-radius: 20px;
+        margin-top: 10px;
+    }
+
+    .block-B{
+        background: red;
+        height: 150px;
+        width: 300px;
+        flex-direction: column;
+        border-radius: 20px;
+
+
+    }
+    .block-C{
+        background: red;
+        height: 70px;
+        width: 300px;
+        border-radius: 20px;
+        margin-top: 10px;
+        margin-left: 1px;
+
+    }
+}
