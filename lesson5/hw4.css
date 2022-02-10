@@ -1,0 +1,211 @@
+.box{
+    height: 510px;
+    width: 395px;
+
+}
+.df{
+    display: flex;
+}
+.cg{
+    column-gap: 10px;
+}
+.fd{
+    flex-direction: row-reverse;
+}
+.fg{
+    flex-direction: column;
+    justify-content: flex-end;
+}
+.mt{
+    margin-top: -30px;
+}
+.bs{
+    box-sizing: border-box;
+}
+.log{
+    height: 50px;
+    width: 100px;
+    background: #3b3b3b;
+    color: white;
+    text-align: center;
+
+}
+.head{
+    height: 50px;
+    width: 285px;
+    background: #3b3b3b;
+    color: white;
+    text-align: center;
+    margin-left: 10px;
+
+}
+.nav{
+    height: 200px;
+    width: 100px;
+    background: #3b3b3b;
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+}
+.bath{
+    height: 100px;
+    width: 200px;
+    background: #3b3b3b;
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+}
+.ad{
+    height: 100px;
+    width: 75px;
+    background: #3b3b3b;
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+
+}
+.types{
+    height: 250px;
+    width: 200px;
+    background: #3b3b3b;
+    color: white;
+    text-align: center;
+    margin-top: -90px;
+    margin-right: 10px;
+
+}
+.rel{
+    height: 250px;
+    width: 75px;
+    background: #3b3b3b;
+    color: white;
+    text-align: center;
+    margin-top: -90px;
+
+}
+.store{
+    height: 70px;
+    width: 100px;
+    background: #3b3b3b;
+    color: white;
+    text-align: center;
+    margin-top: -120px;
+    margin-bottom: 20px;
+
+}
+.tools{
+    height: 70px;
+    width: 100px;
+    background: #3b3b3b;
+    color: white;
+    text-align: center;
+    margin-top: -10px;
+}
+.footer{
+    height: 80px;
+    width: 395px;
+    background: #3b3b3b;
+    color: white;
+    text-align: center;
+    margin-top: -82px;
+    margin-left: -1px;
+}
+    @media screen and (min-width: 0) and (max-width: 420px) {
+    .box{
+
+    }
+
+    .log{
+        height: 30px;
+        width: 50px;
+        background: #3b3b3b;
+        color: white;
+        text-align: center;
+        flex-direction: column;
+
+    }
+    .head{
+        height: 30px;
+        width: 120px;
+        background: #3b3b3b;
+        color: white;
+        text-align: center;
+        margin-left: 2px;
+
+    }
+    .nav{
+        height: 50px;
+        width: 172px;
+        background: #3b3b3b;
+        color: white;
+        text-align: center;
+        margin-top: 2px;
+    }
+    .bath{
+        height: 100px;
+        width: 105px;
+        background: #3b3b3b;
+        color: white;
+        text-align: center;
+        margin-top: 54px;
+        margin-left: -182px;
+
+    }
+    .ad{
+        height: 100px;
+        width: 65px;
+        background: #3b3b3b;
+        color: white;
+        text-align: center;
+        margin-top: 54px;
+        margin-left: -8px;
+
+    }
+    .types{
+        height: 180px;
+        width: 172px;
+        background: #3b3b3b;
+        color: white;
+        text-align: center;
+        margin-top: 2px;
+        margin-right: -172px;
+    }
+    .rel{
+        height: 110px;
+        width: 172px;
+        background: #3b3b3b;
+        color: white;
+        text-align: center;
+        margin-top: 184px;
+        margin-right: 223px;
+
+    }
+    .store{
+        height: 70px;
+        width: 83px;
+        background: #3b3b3b;
+        color: white;
+        text-align: center;
+        margin-top: 33px;
+
+    }
+    .tools{
+        height: 70px;
+        width: 83px;
+        background: #3b3b3b;
+        color: white;
+        text-align: center;
+        margin-top: -90px;
+        margin-left: 89px;
+    }
+    .footer{
+        height: 60px;
+        width: 172px;
+        background: #3b3b3b;
+        color: white;
+        text-align: center;
+        margin-top: 45px;
+        margin-left: -1px;
+    }
+
+}
